@@ -19,8 +19,8 @@ const Hero = () => {
          Somos <span className='text-[#e82d2d]'>Winenance</span>
         </h1>
         <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-          Desarrollamos realidad mixta, aumentada <br className='sm:block hidden' />
-           y eventos en el metaverso, para cambiar el marketing a la Web3.0.
+          Desarrollamos realidad aumentada, virtual y mixta. <br className='sm:block hidden' />
+           Realizamos eventos en el metaverso, para cambiar el marketing a la Web3.0.
         </p>
       </div>
     </div>

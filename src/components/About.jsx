@@ -39,14 +39,14 @@ const About = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Winenance</p>
-        <h3 className={styles.sectionHeadText}>Somos marketing con tecnología Web3.0, enfocada en el metaverso.</h3>
+        <h3 className={styles.sectionHeadText}>Somos un estudio de marketing que se especializa en realidad aumentada, mixta o virtual.  Tenemos foco en la Web 3.0 y en el metaverso.</h3>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        ¿Qué te parece tener una estrategia de marketing digital personalizada que se adapte a las necesidades específicas de tu empresa? Esto podría incluir campañas de redes sociales, publicidad con tecnologia blockchain, y mucho más.
+        ¿Qué te parece tener una estrategia de marketing digital personalizada que se adapte a las necesidades específicas de tu empresa? Esto podría incluir campañas de redes sociales con realidad aumentada, publicidad con tecnologia NFT, contratos inteligentes con blockchain y mucho más.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

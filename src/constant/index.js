@@ -32,6 +32,10 @@ import {
       title: "¿Que hacemos?",
     },
     {
+      id: "blog",
+      title: "Blog",
+    },
+    {
       id: "contact",
       title: "Contactanos",
     },
@@ -39,7 +43,7 @@ import {
   
   const services = [
     {
-      title: "Metaverso",
+      title: "Realidad virtual y metaverso",
       icon: web,
     },
     {
@@ -47,7 +51,7 @@ import {
       icon: mobile,
     },
     {
-      title: "Blockchain",
+      title: "Realidad Aumentada y mixta",
       icon: backend,
     },
     {
@@ -113,27 +117,28 @@ import {
   
   const experiences = [
     {
-      title: "Desarrollo de NFT",
-      company_name: "NFT",
+      title: "Desarrollo de Realidad Aumentada y Virtual",
+      company_name: "Realidad Aumentada y Virtual",
       icon: nft,
       iconBg: "#383E56",
       points: [
-        "Creamos NFT, con diseños, innovadores para el marketing de tu empresa.",
-        "Te ayudamos a lanzar y fondear tu empresa",
+        "Creamos con diseños innovadores para el marketing de tu empresa.",
+        "Te ayudamos a crear la experincia de realidad aumentada y virtual para tu empresa.",
         "Sube de nivel, te ayudamos a entrar a la Web3.0.",
-        "Participa proximamente en nuestro Marketplace de NFT.",
+        "Te ofrecemos acceso a las metricas de tus redes sociales, para que puedas medir el impacto de tu campaña.",
       ],
     },
     {
-      title: "Metaverso",
-      company_name: "Tesla",
+      title: "NFT",
+      company_name: "NFT",
       icon: tesla,
       iconBg: "#E6DEDD",
     
       points: [
-        "Entra en los diferente Metaversos que existen.",
-        "Te ayudamos a crear tus NFT y billetera digital.",
-        "Realizamos desarrollos de eventos hibridos, en el Metaverso y presencial, Preguntanos."
+        "Creamos NFT, con diseños, innovadores para el marketing de tu empresa.",
+        "Te ayudamos a lanzar tu NFF para subir de nivel y entrar en la Web3.0",
+        "Con NFT, puedes ofrecer ventajas de las mercancia fisica, pases exclusivos a eventos, realizar programas de fidelizacion, para atraer nuevos usuarios que estan en el metaverso.",
+        "Participa proximamente en nuestro Marketplace de NFT.",
       ],
     },
     {
@@ -144,8 +149,8 @@ import {
    
       points: [
         "Gracias a la red descentralizada, los usuarios pueden efectuar transacciones directas, entre iguales, sin intermediarios que gestionen el intercambio de fondos.",
+        "Blockchain sirve para crear contratos inteligentes, y asi crear experiencias de marca capitalizando las mismas o creando comunidades DAO.",
         "Te ayudamos a crear Blockchain privadas o publicas, segun tus necesidades.",
-        "Blockchain sirve para compartir información en todo el mundo. Dicha información no puede ser manipulada ni modificada.",
         "Reunete con nosotros y te ayudamos a armar tu solucion.",
       ],
     },
@@ -155,11 +160,11 @@ import {
       icon: meta,
       iconBg: "#E6DEDD",
       points: [
-        "Desarrollamos VR para dieño, formacion, marketing y ventas.",
-        "Agregamos informcion digital a elementos fisicos del entorno, imagenes u objetos reales, e interactuamos con ellos.",
+        "Desarrollamos VR para diseño, formacion, marketing y ventas.",
+        "Agregamos informacion digital a elementos fisicos del entorno, imagenes u objetos reales, e interactuamos con ellos.",
         "Colaboramos con tu proyecto con equipo cross-funcional, deseñadores, product managers, y muchos diseñadores para crear productos high-quality.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participa y consigue diseñandores y desarrolladores VR.",
+        "Te ayudamos a implementar diseños 3D con compatibilidad cross-browser.",
+        "Participa y consigue diseñadores y desarrolladores VR.",
       ],
     },
   ];
